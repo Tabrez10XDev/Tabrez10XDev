@@ -15,14 +15,14 @@
 
 <br />
 
-Hi, I'm Tabrez, An App Developer 🚀 from Chennai, India. Aspiring engineer. 
+Hi, I'm Tabrez, a Software / ML Engineer 🚀 from Rochester, NY.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning ML, Blockchain and App Development; 
-- 📝[Resume](https://drive.google.com/file/d/1whBWg3CK4Y-1tB5oLx0TDHmrtSYV4OLy/view?usp=sharing)
+- 🌱 I’m currently learning ML and Software Development; 
+- 📝[Resume](https://docs.google.com/document/d/1NehTgAziAhjzHdN1AAi4cqcW8xadCzJ_/edit?usp=sharing&ouid=111878821921531588668&rtpof=true&sd=true)
 
 **Languages and Tools:**  
 

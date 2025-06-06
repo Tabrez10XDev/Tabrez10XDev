@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **meet.tabrezt1@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1NehTgAziAhjzHdN1AAi4cqcW8xadCzJ_/edit?usp=sharing&ouid=111878821921531588668&rtpof=true&sd=true](https://docs.google.com/document/d/1NehTgAziAhjzHdN1AAi4cqcW8xadCzJ_/edit?usp=sharing&ouid=111878821921531588668&rtpof=true&sd=true)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1NehTgAziAhjzHdN1AAi4cqcW8xadCzJ_/edit?usp=sharing&ouid=111878821921531588668&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
